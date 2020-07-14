@@ -28,7 +28,7 @@ twitter_username: shes_a_mystic
 github_username:  KerriFair
 
 # Build settings
-theme: tale
+remote_theme: chesterhow/tale
 permalink: /:year-:month-:day/:title
 paginate: 5
 plugins:
