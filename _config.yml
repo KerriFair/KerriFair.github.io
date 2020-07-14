@@ -36,6 +36,8 @@ author:
 remote_theme: chesterhow/tale
 permalink: /:year-:month-:day/:title
 paginate: 5
+
+whitelist: [jekyll-analytics]
 plugins:
   - jekyll-feed
   - jekyll-analytics
