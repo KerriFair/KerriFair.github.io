@@ -34,4 +34,3 @@ gem "tale"
 # remote theme for github-pages
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
-gem 'jekyll-analytics'

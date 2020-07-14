@@ -27,6 +27,8 @@ url: "https://kerrigan.im" # the base hostname & protocol for your site, e.g. ht
 twitter_username: shes_a_mystic
 github_username:  KerriFair
 
+google_analytics: UA-76045311-1
+
 author: 
   name: Kerrigan Fairbairn
   url: https://kerrigan.im
@@ -37,15 +39,8 @@ remote_theme: chesterhow/tale
 permalink: /:year-:month-:day/:title
 paginate: 5
 
-whitelist: [jekyll-analytics]
 plugins:
   - jekyll-feed
-  - jekyll-analytics
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-76045311-1       # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 
 # Exclude from processing.
