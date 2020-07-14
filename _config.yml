@@ -27,6 +27,11 @@ url: "https://kerrigan.im" # the base hostname & protocol for your site, e.g. ht
 twitter_username: shes_a_mystic
 github_username:  KerriFair
 
+author: 
+  name: Kerrigan Fairbairn
+  url: https://kerrigan.im
+  email: kerriganfair@gmail.com
+  
 # Build settings
 remote_theme: chesterhow/tale
 permalink: /:year-:month-:day/:title
