@@ -1,5 +1,5 @@
 ---
-title: Flashback to Pandora a Borderlands Review
+title: Flashback to Pandora, a Borderlands Review
 comments: true
 ---
 
