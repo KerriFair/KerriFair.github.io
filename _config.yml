@@ -38,7 +38,7 @@ author:
 remote_theme: chesterhow/tale
 permalink: /:year-:month-:day/:title
 paginate: 5
-disqus: kerrigan_im
+disqus: kerrigan-im
 
 plugins:
   - jekyll-feed
