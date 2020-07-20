@@ -1,3 +1,8 @@
+---
+title: Enderal First Impressions
+comments: true
+---
+
 Today I want to talk to you about a recent development in story telling and adventure from the breathtaking world of Enderal a small continent in the land of Vyn where the gods are dead and the wheel of time is due to complete one more full rotation. In order to do this, there will doubtless be some spoilers but I’ll try my best to keep them as few as possible.
 
 First things first, however, let me express to you my wonder in the knowledge that Enderal exists as a standalone game built on top of a staple of the modern RPG… That’s right, Skyrim. As a standalone game built using the creation kit and resources from the modding community as well as the team put together by SureAI, if you own Skyrim you can play Enderal for free! It is hard to overstate how impressive the work done by this collaboration of artists, writers and engineers is in the first place, but infinitely more with this knowledge applied.

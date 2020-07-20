@@ -1,3 +1,8 @@
+---
+title: Lighting a Fire With Ember
+comments: true
+---
+
 Back in 2016 a relatively small studio published a relatively small game by the name of [Ember](https://store.steampowered.com/app/339580/Ember/). A top-down RPG that aimed to do something different. Described as "A passion project 10 years in the making" I found myself oddly enthralled by it. Warning, potential spoilers below.
 
 The game introduces it's story immediately with a captivating opening sequence comparable to Windwaker or the first Witcher with the aim of pulling you into it's world, for me it succeeded. The next thing you know, you're waking up in a crypt, your crypt. That's right, you're undead. Ressurected by a monk who introduces himself as Coren, you begin to navigate your way through the labyrinthian tomb that holds as many mysteries as your head can contain. 
