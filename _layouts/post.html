@@ -46,8 +46,10 @@ layout: default
 <!-- Comments Form -->
 
   <form method="POST" action="{{ site.staticman_url }}">
-    <input name="options[redirect]" type="hidden" value="https://example.com">
+    <input name="options[redirect]" type="hidden" value="https://kerrigan.im/">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+    <input name="email" type="hidden" value="kerriganfair@gmail.com">
+    <input name="url" type="hidden" value="https://kerrigan.im/"
       <label>Name</label>
       <input name="fields[name]" type="text">
       <label>Message</label>
