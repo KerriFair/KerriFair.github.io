@@ -114,4 +114,4 @@ Players who play to their attitude may be rewarded by the Storyteller, players w
 
 ### Character Sheet
 The character sheet for World of Ara can be downloaded as a Printable PDF below.
-[Download](/assets/woa/WOACS1_Character_Sheet.pdf)
+[Download](/assets/woa/WOACS1_1_Character_Sheet.pdf)
