@@ -80,7 +80,6 @@ Health can be calculated as a value equal to your characters Strength multiplied
 
 Fatigue can be calculated as a value equal to your characters Mind multiplied by their Willpower.
 
-####
 ### Attitudes
 <a id="attitudes"></a>
 The next step in character creation is establishing your characters attitude. Attitude is indicated through the use of keywords that define your characters general response to situations. You will pick three keywords, one for positive responses, one for negative responses and one for neutral responses. 
