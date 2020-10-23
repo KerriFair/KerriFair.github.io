@@ -11,7 +11,8 @@ Welcome to Ara. A table top roleplaying ruleset that brings the focus to the rol
 1. [Character Creation](#creation)
     1. [Race](#race)
     2. [Attributes](#attributes)
-    3. [Class](#class)
+    3. [Attitudes](#attitudes)
+    4. [Class](#class)
 2. [Storytelling](#storytelling)
 
 ## Character Creation
@@ -72,6 +73,45 @@ Essence governs the ability of the character to draw on natural magics around th
 ##### Control
 Control governs the ability of the character to command and direct magics around them in response to an opportunity as well their natural regeneration.
 
-### Class
-<a id="class"></a>
-There are no strict classes within Ara, but it is important for the player to consider how their character will respond to situations and what that characters history would position themselves as within the world. What is possible for the characters to achieve when reacting to an opportunity can be determined by an agreed consensus between the story teller and the player. It is important to establish your character with a genuine personality whose development can be traced through the opportunities they are presented with. To this end a character with a military past may be considered a fighter, a character engaged with larceny may be considered a rogue and so on though there is no concrete definition or rulesets that can be applied; the story teller may let the rogue engage with lockpicking a door where they may prefer the fighter attempts to break in with brute force instead.
+### Attitudes
+<a id="attitudes"></a>
+The next step in character creation is establishing your characters attitude. Attitude is indicated through the use of keywords that define your characters general response to situations. You will pick three keywords, one for positive responses, one for negative responses and one for neutral responses. 
+
+For example:
+
+  **Positive**: Excitable  
+  **Neutral**: Curious  
+  **Negative**: Angry  
+
+Below is a collection of questions that can help you determine what keywords you might want to choose.
+
+#### Positive
+1. You find a coin purse at the side of the road, it appears abandoned and the streets have long been empty and it's unlikely it'll ever find it's owner so you claim it for yourself, how does this make you feel?  
+
+2. Your last quest was met with a resounding success, you've been paid and you've got not outstanding responsibilities, where will you go to relax and what will you be doing there? Can you condense that feeling into a single word?
+
+3. You've been working towards a goal for several years and you're about to succeed, what is your goal and what do you feel in the moments before acheiving it?
+
+#### Neutral
+1. The day is quiet, you're sat down to dinner at camp, what are you thinking about and what does that say about you?
+
+2. You've been studying at the library for your current assignment, it's not too busy and you have your own table, how do you approach your research?
+
+3. It's shopping day, you have to refill your regular supplies and that means going to a few different shops, it will take a couple of hours to gather everything you need, how do you feel about this?
+
+#### Negative
+1. You were walking down the road through the forest south of town on your way to deliver a message and you were caught off guard by a roving pack of wolves. You were able to fend them off but you were injured doing so. How does this series of events make you feel?
+
+2. One of your party got really drunk last night whilst celebrating and was robbed, among the stolen possessions was an artifact you had let them borrow temporarily, you're unlikely to get it back. What feelings do you have about this?
+
+3. You just got back from a long and difficult assignment, you return to your employer to hand over the acquired item but they refuse to pay you. They give an excuse that's irrelevant to the fact that you were promised payment. How do you respond?
+
+Players who play to their attitude may be rewarded by the Storyteller, players who don't may find their Storyteller introducing additional obstacles or introducing attitude changes. Whilst attitude is not a fixed or concrete guide to playing your character, it should influence a majority of their interactions.
+
+### Notes on Classes
+> <a id="class"></a>
+> There are no strict classes within Ara, but it is important for the player to consider how their character will respond to situations and what that characters history would position themselves as within the world. What is possible for the characters to achieve when reacting to an opportunity can be determined by an agreed consensus between the story teller and the player. It is important to establish your character with a genuine personality whose development can be traced through the opportunities they are presented with. To this end a character with a military past may be considered a fighter, a character engaged with larceny may be considered a rogue and so on though there is no concrete definition or rulesets that can be applied; the story teller may let the rogue engage with lockpicking a door where they may prefer the fighter attempts to break in with brute force instead.
+
+### Character Sheet
+The character sheet for World of Ara can be downloaded as a Printable PDF below.
+[Download](/assets/woa/WOACS1_Character_Sheet.pdf)

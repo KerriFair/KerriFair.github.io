@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="favicon.svg">
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="U:\Documents\kerriplaysgames\favicon-32x32.png"
+   inkscape:export-xdpi="27.099192"
+   inkscape:export-ydpi="27.099192">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -58,16 +61,17 @@
      id="layer1"
      transform="translate(-69.115225,-64.679211)">
     <g
-       id="g883">
+       id="g883"
+       transform="matrix(0.85520718,0,0,0.85520718,12.546449,11.904146)">
       <text
          id="text817"
-         y="95.618683"
-         x="70.503853"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.15155029px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';letter-spacing:0px;word-spacing:0px;fill:#353535;fill-opacity:1;stroke:none;stroke-width:0.95378882"
+         y="93.738846"
+         x="72.496429"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.78207397px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';letter-spacing:0px;word-spacing:0px;fill:#353535;fill-opacity:1;stroke:none;stroke-width:0.81955194"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#353535;fill-opacity:1;stroke-width:0.95378882"
-           y="95.618683"
-           x="70.503853"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#353535;fill-opacity:1;stroke-width:0.81955194"
+           y="93.738846"
+           x="72.496429"
            id="tspan815"
            sodipodi:role="line">K</tspan></text>
       <rect
