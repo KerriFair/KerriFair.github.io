@@ -73,6 +73,14 @@ Essence governs the ability of the character to draw on natural magics around th
 ##### Control
 Control governs the ability of the character to command and direct magics around them in response to an opportunity as well their natural regeneration.
 
+#### Health and Fatigue
+Health and Fatigue represents your characters physical and mental wellbeing, and being physically or mentally tested will reduce these values over time. If either Health or Fatigue drop to 0, your character is considered unconcious.
+
+Health can be calculated as a value equal to your characters Strength multiplied by their Body.
+
+Fatigue can be calculated as a value equal to your characters Mind multiplied by their Willpower.
+
+####
 ### Attitudes
 <a id="attitudes"></a>
 The next step in character creation is establishing your characters attitude. Attitude is indicated through the use of keywords that define your characters general response to situations. You will pick three keywords, one for positive responses, one for negative responses and one for neutral responses. 
@@ -106,7 +114,7 @@ Below is a collection of questions that can help you determine what keywords you
 
 3. You just got back from a long and difficult assignment, you return to your employer to hand over the acquired item but they refuse to pay you. They give an excuse that's irrelevant to the fact that you were promised payment. How do you respond?
 
-Players who play to their attitude may be rewarded by the Storyteller, players who don't may find their Storyteller introducing additional obstacles or introducing attitude changes. Whilst attitude is not a fixed or concrete guide to playing your character, it should influence a majority of their interactions.
+Players who play to their attitude may be rewarded by the Story teller, players who don't may find their Story teller introducing additional obstacles or introducing attitude changes. Whilst attitude is not a fixed or concrete guide to playing your character, it should influence a majority of their interactions.
 
 ### Notes on Classes
 > <a id="class"></a>
