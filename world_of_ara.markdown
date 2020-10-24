@@ -13,7 +13,7 @@ Welcome to Ara. A table top roleplaying ruleset that brings the focus to the rol
     2. [Attributes](#attributes)
     3. [Attitudes](#attitudes)
     4. [Class](#class)
-    5. [Equipment"](#equipment)
+    5. [Equipment"](#startingequipment)
 2. [Story Telling](#storytelling)
 3. [Playing the Game](#playing)
 
@@ -122,17 +122,29 @@ Players who play to their attitude may be rewarded by the Story teller, players 
 > There are no strict classes within Ara, but it is important for the player to consider how their character will respond to situations and what that characters history would position themselves as within the world. What is possible for the characters to achieve when reacting to an opportunity can be determined by an agreed consensus between the story teller and the player. It is important to establish your character with a genuine personality whose development can be traced through the opportunities they are presented with. To this end a character with a military past may be considered a fighter, a character engaged with larceny may be considered a rogue and so on though there is no concrete definition or rulesets that can be applied; the story teller may let the rogue engage with lockpicking a door where they may prefer the fighter attempts to break in with brute force instead.
 
 ### Equipment
-<a id="equipment"></a>
-The final stage of player set up is selecting your starting equipment. You are free to discuss this with your story teller, however for new players just starting out some starting kits have been included below.
+<a id="startingequipment"></a>
+The final stage of player set up is selecting your starting equipment. You are free to discuss this with your story teller, however for new players just starting out some starting kits have been included below. You can find more details about each item in the [Equipment](#equipment) section towards the end of this overview.
 
-|            |Weapon      |Armour |Accessory   |Tool               |
-|-----------:|:-----------|:------|:-----------|:------------------|
-|**Explorer**|Spear       |Leather|Hooded Cloak|Cartographer's Kit |
-|**Medic**   |Mace        |Leather|Potion Belt |Alechemist's Kit   |
-|**Musician**|Shortsword  |Cloth  |Medallion   |Lute               |
-|**Thief**   |Shortsword  |Leather|Hooded Cloak|Thieves' Tools     |
-|**Warrior** |Longsword   |Chain  |Shield      |Armourer's Kit     |
-|**Wizard**  |Wooden Staff|Cloth  |Spellbook   |Caligripher's Tools|
+<style>
+table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 0.4em 1em;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+</style>
+|            |Weapon      |Armour |Accessory   |Tool               |Currency |
+|-----------:|:-----------|:------|:-----------|:------------------|:-------:|
+|**Explorer**|Spear       |Leather|Hooded Cloak|Cartographer's Kit |50gc     |
+|**Medic**   |Mace        |Leather|Potion Belt |Alechemist's Kit   |50gc     |
+|**Musician**|Shortsword  |Cloth  |Medallion   |Instrument         |50gc     |
+|**Thief**   |Shortsword  |Leather|Hooded Cloak|Thieves' Tools     |50gc     |
+|**Warrior** |Longsword   |Chain  |Shield      |Armourer's Kit     |50gc     |
+|**Wizard**  |Wooden Staff|Cloth  |Spellbook   |Caligripher's Tools|50gc     |
+|**Archer**  |Shortbow    |Leather|Quiver      |Hunter's Kit       |50gc     |
+
 
 ### Character Sheet
 The character sheet for World of Ara can be downloaded as a Printable PDF below.
@@ -143,3 +155,92 @@ The character sheet for World of Ara can be downloaded as a Printable PDF below.
 
 <a id="playing"></a>
 ## Playing the Game
+
+<a id="equipment"></a>
+## Equipment
+
+Equipment in the World of Ara aspires to be as generic as the gameplay itself, it often helps to have a guideline or collection of examples of gear that may be used. Below is a non-exhaustive list of various bits of gear characters in the world can utilise. It is recommended that the story teller work with their players to create new and exciting gear throughout their gameplay and use this list purely as a reference guide for generating ideas. Though weapons and armour have mechanical properties that link back to gameplay, accessories and tools are limited only by their descriptions and the consensus of the group at play. For example, if a player is seeking to get through an area that's difficult to traverse due to an overgrowth of vines or thorns bushes they may be able to use a knife from their hunting tools or a saw from their woodworker's tools to get through it, despite their lack of botanist's gear.
+
+### Weapons
+
+#### Melee
+
+|Name      |Description                                                                                                               |Damage|Range|Properties              |
+|:---------|:-------------------------------------------------------------------------------------------------------------------------|:----:|:---:|:-----------------------|
+|Dagger    |A short bladed weapon favoured for it's concealability.                                                                   |1     |Melee|Quick, Subtle           |
+|Longsword |A heavier bladed weapon used with both hands, an icon of knighthood in Ara.                                               |3     |Melee|Heavy, Two-Handed       |
+|Mace      |A large heavy ball of iron fixed to a wooden handle, the mace is a fearsome and thuggish tool.                            |2     |Melee|Heavy                   |
+|Rod       |A short rod of metal or wood used as an focus by magic users.                                                             |1     |Melee|Magic, Quick            |
+|Shortsword|A light and versatile bladed weapon, the short sword is a staple addition to any armoury.                                 |2     |Melee|Quick                   |
+|Spear     |A sharp point atop a long pole, the fate of the World of Ara is most commonly found at the end of the spear.              |2     |Melee|Reach, Versatile        |
+|Staff     |A large wooden staff frequently used by wielders of magic as a focus or by martial folk looking for a non-lethal solution.|2     |Melee|Heavy, Magic, Two-Handed|
+
+#### Ranged
+
+|Name      |Description                                                                                                 |Damage|Range|Properties                  |
+|:---------|:-----------------------------------------------------------------------------------------------------------|:----:|:---:|:---------------------------|
+|Javelin   |A shortened spear designed for throwing, the javelin is a favourite of athletes and soldiers.               |2     |Range|Heavy, Thrown               |
+|Longbow   |A tall bow made of composite materials designed for firing an arrow over a large distance.                  |3     |Range|Ammo, Heavy, Two-Handed     |
+|Rifle     |A long barrelled fire-arm used for long range shooting.                                                     |3     |Range|Ammo, Quick, Loading        |
+|Shortbow  |A short ranged weapon suitable for hunting and putting an immediate stop to an approaching threat.          |2     |Range|Ammo, Quick, Two-Handed     |
+|Sidearm   |A one handed fire-arm used for propelling bullets at an incredible velocity over a short distance.          |3     |Range|Ammo, Quick, Loading, Subtle|
+|Sling     |A small leather strap tied to a stick with string, used to aid the wielder in throwing stones with force.   |1     |Range|Ammo, Heavy                 |
+
+#### Properties
+
+|Name      |Description                                             |
+|:---------|:-------------------------------------------------------|
+|Ammo      |Requires ammunition.                                    |
+|Heavy     |Uses Strength as it's attribute.                        |
+|Loading   |Requires loading as a separate actionafter attacking.   |
+|Magic     |Can be used as a magical focus.                         |
+|Quick     |Uses Quickness as it's attribute.                       |
+|Reach     |Can be used to reach targets just beyond melee distance.|
+|Subtle    |Can be concealed                                        |
+|Thrown    |Is thrown and lost until picked up                      |
+|Two-Handed|Must be used with both hands.                           |
+|Versatile |Can use Quickness or Strength as it's attribute.        |
+
+### Armour
+
+|Name   |Description                                                                                                                    |Defence|Properties |
+|:------|:------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------|
+|Chain  |Made from linked rings of metal chain affords the wearer with a strong defense, heavy but flexible.                            |3      |Heavy      |
+|Cloth  |Cloth clothing or robes, offers little for defence but is extremely versatile.                                                 |1      |Magic      |
+|Leather|Armour made from the hides of animals, offers some defence to physical impacts without many restrictions.                      |2      |           |
+|Plate  |Pressed and folded metal plates fastened together around the wearer, particularly resistant to physical damage but restrictive.|3      |Restrictive|
+
+##### Properties
+
+|Name       |Description                                 |
+|:----------|:-------------------------------------------|
+|Heavy      |Reduces the Quickness of the user by 1 point|
+|Magic      |Can hold glamours or enchantments           |
+|Restrictive|Cannot be used with Quick weapons           |
+
+### Accessories 
+
+|Name        |Description                                                                                                                |
+|:-----------|:--------------------------------------------------------------------------------------------------------------------------|
+|Hooded Cloak|A long cloak with a hood, used for weathering long journeys or conducting discreet business in the dark corners of taverns.|
+|Medallion   |A decorated medallion worn around the neck.                                                                                |
+|Potion Belt |A belt containing several convenient straps and pouches designed for holding potions.                                      |
+|Quiver      |Worn on the back or at the hip, used to hold ammunition or throwing weapons conveniently.                                  |
+|Ring        |A decorated band of metal, wood or bone worn on a finger.                                                                  |
+|Shield      |Worn in the offhand can be used to defend the user from attacks.                                                           |
+|Spellbook   |A book suitable for holding the knowledge and details of spells for a student of magic.                                    |
+|Tabbard     |A decorated strip of cloth worn over armour often used to represent noble allegiences or guild memberships.                |
+
+### Tools
+
+|Name              |Description                                                                                                  |
+|:-----------------|:------------------------------------------------------------------------------------------------------------|
+|Alembic and Mortar|An alembic, mortar and pestle for the purifying and processing of ingredients into potions.                  |
+|Armourer's Tools  |A whetstone, collections of polish, spare straps, small hammer and cloths for maintaining weapons and armour.|
+|Botanist's Gear   |A guidebook on local flora, knives, twine and seeds.                                                         |
+|Caligraphy Tools  |A set of pens, brushes, and parchment for writing.                                                           |
+|Cartography Tools |A set of maps, a sextant and compass as well as blank parchment and inks.                                    |
+|Hunting Gear      |A collection of traps, baits and a knives for the capture and processing of assorted fowl and game.          |
+|Instrument        |An object designed to play music.                                                                            |
+|Thieves' Tools    |A collection of lockpicks, a kosh, fakes and other assorted items for breaking, entering and stealing.       |
+|Woodworking Tools |A collection of handsaws, files, chisels, polishes and varnishes for working with wood.                      |
