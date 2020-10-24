@@ -5,9 +5,11 @@ permalink: /world_of_ara/
 ---
 
 # Overview
+<hr>
 Welcome to Ara. A table top roleplaying ruleset that brings the focus to the roleplay and story telling element of gaming. In Ara players are guided by a story teller through a series of opportunities and reactions. The story teller presents the players with an opportunity and the players must react to it. This generic attitude to driving the narrative allows for a fluid response to changes in the story as it progresses. Below you will find the resources required to learn how to drive the game as a story teller and how to respond to the story as a player.
 
 ## Contents
+<hr>
 1. [Character Creation](#creation)
     1. [Race](#race)
     2. [Attributes](#attributes)
@@ -18,10 +20,14 @@ Welcome to Ara. A table top roleplaying ruleset that brings the focus to the rol
 3. [Playing the Game](#playing)
 4. [Equipment](#equipment)
 
-## Character Creation
 <a id="creation"></a>
-### Race
+## Character Creation
+<hr>
+
+
 <a id="race"></a>
+### Race
+<hr>
 Most commonly the first thing to consider when creating a character, is race. Race governs the primary appearance of the character as well as how long they're likely to live and how other sentients in the world may react to them. The world of Ara is incredibly diverse, and your story teller may govern their iteration of the world differently to others. Below are just a few examples of races you might want to include in your game.
 
 #### Elf
@@ -45,8 +51,9 @@ Orcs are a complicated and solitary race. What they lack in numbers they make up
 #### Skaeven
 Skaeven are perhaps the most populous of races on Ara and are comprised of various rodentia. Chief among the skaeven are the ratfolk who took on the responsibility of governing and maintaining the race during their early tribal days. Many of the other races are cautious of skaeven and consider the ratfolk the most mistrustful of all. This myth is perpetuated by the ratfolk themselves in order to convince people to leave them alone. Skaeven life spans range between 30 and 70 years with ratfolk living longer than most. People resembling squirrels, mice, and hamsters are also found within the skaeven race. Skaeven occupy all walks of life.
 
-### Attributes
 <a id="attributes"></a>
+### Attributes
+<hr>
 After selecting a race, appearance and name, the next thing players should do is allocate their intial points amongst their characters attributes. In Ara there are three core elements to a sentient creature and this is called the Aran Triumvirate by scholars. These three elements each govern an additional two properties that govern the abilities of the creature. A player starts with 9 points that they can allocate, a sub property can only be raised as high as it's governing element.
 
 #### Body
@@ -83,8 +90,9 @@ Health can be calculated as a value equal to your characters Strength multiplied
 
 Fatigue can be calculated as a value equal to your characters Mind multiplied by their Willpower.
 
-### Attitudes
 <a id="attitudes"></a>
+### Attitudes
+<hr>
 The next step in character creation is establishing your characters attitude. Attitude is indicated through the use of keywords that define your characters general response to situations. You will pick three keywords, one for positive responses, one for negative responses and one for neutral responses. 
 
 For example:
@@ -118,12 +126,14 @@ Below is a collection of questions that can help you determine what keywords you
 
 Players who play to their attitude may be rewarded by the Story teller, players who don't may find their Story teller introducing additional obstacles or introducing attitude changes. Whilst attitude is not a fixed or concrete guide to playing your character, it should influence a majority of their interactions.
 
+<a id="class"></a>
 ### Notes on Classes
-> <a id="class"></a>
+<hr>
 > There are no strict classes within Ara, but it is important for the player to consider how their character will respond to situations and what that characters history would position themselves as within the world. What is possible for the characters to achieve when reacting to an opportunity can be determined by an agreed consensus between the story teller and the player. It is important to establish your character with a genuine personality whose development can be traced through the opportunities they are presented with. To this end a character with a military past may be considered a fighter, a character engaged with larceny may be considered a rogue and so on though there is no concrete definition or rulesets that can be applied; the story teller may let the rogue engage with lockpicking a door where they may prefer the fighter attempts to break in with brute force instead.
 
 <a id="startingequipment"></a>
 ### Starting Equipment
+<hr>
 The final stage of player set up is selecting your starting equipment. You are free to discuss this with your story teller, however for new players just starting out some starting kits have been included below. You can find more details about each item in the [Equipment](#equipment) section towards the end of this overview.
 
 <style>
@@ -148,17 +158,21 @@ th, td {
 
 
 ### Character Sheet
+<hr>
 The character sheet for World of Ara can be downloaded as a Printable PDF below.
 [Download](/assets/woa/WOACS1_1_Character_Sheet.pdf)
 
 <a id="storytelling"></a>
 ## Story Telling
+<hr>
 
 <a id="playing"></a>
 ## Playing the Game
+<hr>
 
 <a id="equipment"></a>
 ## Equipment
+<hr>
 
 Equipment in the World of Ara aspires to be as generic as the gameplay itself, it often helps to have a guideline or collection of examples of gear that may be used. Below is a non-exhaustive list of various bits of gear characters in the world can utilise. It is recommended that the story teller work with their players to create new and exciting gear throughout their gameplay and use this list purely as a reference guide for generating ideas. Though weapons and armour have mechanical properties that link back to gameplay, accessories and tools are limited only by their descriptions and the consensus of the group at play. For example, if a player is seeking to get through an area that's difficult to traverse due to an overgrowth of vines or thorns bushes they may be able to use a knife from their hunting tools or a saw from their woodworker's tools to get through it, despite their lack of botanist's gear.
 
