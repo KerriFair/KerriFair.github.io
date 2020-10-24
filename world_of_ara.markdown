@@ -13,9 +13,10 @@ Welcome to Ara. A table top roleplaying ruleset that brings the focus to the rol
     2. [Attributes](#attributes)
     3. [Attitudes](#attitudes)
     4. [Class](#class)
-    5. [Equipment"](#startingequipment)
+    5. [Equipment](#startingequipment)
 2. [Story Telling](#storytelling)
 3. [Playing the Game](#playing)
+4. [Equipment](#equipment)
 
 ## Character Creation
 <a id="creation"></a>
@@ -121,8 +122,8 @@ Players who play to their attitude may be rewarded by the Story teller, players 
 > <a id="class"></a>
 > There are no strict classes within Ara, but it is important for the player to consider how their character will respond to situations and what that characters history would position themselves as within the world. What is possible for the characters to achieve when reacting to an opportunity can be determined by an agreed consensus between the story teller and the player. It is important to establish your character with a genuine personality whose development can be traced through the opportunities they are presented with. To this end a character with a military past may be considered a fighter, a character engaged with larceny may be considered a rogue and so on though there is no concrete definition or rulesets that can be applied; the story teller may let the rogue engage with lockpicking a door where they may prefer the fighter attempts to break in with brute force instead.
 
-### Equipment
 <a id="startingequipment"></a>
+### Starting Equipment
 The final stage of player set up is selecting your starting equipment. You are free to discuss this with your story teller, however for new players just starting out some starting kits have been included below. You can find more details about each item in the [Equipment](#equipment) section towards the end of this overview.
 
 <style>
