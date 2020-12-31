@@ -1,6 +1,7 @@
 ---
 title: Flashback to Pandora, a Borderlands Review
 comments: true
+tags: [Review, Video Game, FPS, RPG]
 ---
 
 As you may or may not know, and if you spend any time on the internet at all I'm erring towards may, a new borderlands game was recently announced. For some people this is great news, for other people it's mildly interesting. I fall into the latter category. That being said, several of my friends stand by borderlands as one of their favourite titles and though I last played it several years ago shortly after it came out I thought I'd give it another go. What follows are my thoughts regarding Borderlands, how it played, what I enjoyed, and what I feel it could have done better. I hope to follow this post up with a sequel after playing Borderlands 2 and eventually we'll see what happens with Borderlands 3 as well.

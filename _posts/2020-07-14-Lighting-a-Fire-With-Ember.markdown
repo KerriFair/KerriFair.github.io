@@ -1,6 +1,7 @@
 ---
 title: Lighting a Fire With Ember
 comments: true
+tags: [Review, Video Game, RPG]
 ---
 
 Back in 2016 a relatively small studio published a relatively small game by the name of [Ember](https://store.steampowered.com/app/339580/Ember/). A top-down RPG that aimed to do something different. Described as "A passion project 10 years in the making" I found myself oddly enthralled by it. Warning, potential spoilers below.
