@@ -4,7 +4,7 @@ comments: true
 tags: [Review, Video Game, Point & Click]
 ---
 
-let's start with the simple things first, When the Past Was Around is a very short game, and calling it a game may well be generous, but in saying that I thoroughly enjoyed the experience it provided and I would hate to sell it short of it's mark. This game really took me by surprise, after seeing some artwork from the game on twitter I knew immediately it was something I wanted to play and it bumped itself to the top of my list. 
+Let's start with the simple things first, When the Past Was Around is a very short game, and calling it a game may well be generous, but in saying that I thoroughly enjoyed the experience it provided and I would hate to sell it short of it's mark. This game really took me by surprise, after seeing some artwork from the game on twitter I knew immediately it was something I wanted to play and it bumped itself to the top of my list. 
 
 So let's talk mechanics, the progression of story in When the Past Was Around is delivered through point and click puzzle solving in what has become a solidifed and traditional approach throughout the genre with the benefit of some quality of life improvements such as a cursor that demonstrates what can and can't be interacted with and what interaction an object is expecting. Solve the puzzle and the story moves on.
 
