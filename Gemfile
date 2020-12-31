@@ -36,3 +36,4 @@ gem "jekyll-remote-theme"
 gem "jekyll-paginate"
 
 gem "kramdown-parser-gfm"
+gem "nokogiri", ">= 1.11.0.rc4"
