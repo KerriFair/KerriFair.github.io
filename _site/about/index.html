@@ -15,6 +15,8 @@
 <meta property="og:title" content="About" />
 <meta name="author" content="Kerrigan Fairbairn" />
 <meta property="og:locale" content="en_US" />
+<meta name="description" content="Welcome to my thoughts, look around, stay a while, check me out on twitter." />
+<meta property="og:description" content="Welcome to my thoughts, look around, stay a while, check me out on twitter." />
 <link rel="canonical" href="http://localhost:4000/about/" />
 <meta property="og:url" content="http://localhost:4000/about/" />
 <meta property="og:site_name" content="Hi I’m Kerri" />
@@ -23,7 +25,7 @@
 <meta name="twitter:site" content="@hi_im_kerri" />
 <meta name="twitter:creator" content="@Kerrigan Fairbairn" />
 <script type="application/ld+json">
-{"headline":"About","@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/kerri.png"},"name":"Kerrigan Fairbairn"},"name":"Hi I’m Kerri","url":"http://localhost:4000/about/","author":{"@type":"Person","name":"Kerrigan Fairbairn"},"@context":"https://schema.org"}</script>
+{"headline":"About","description":"Welcome to my thoughts, look around, stay a while, check me out on twitter.","@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/kerri.png"},"name":"Kerrigan Fairbairn"},"name":"Hi I’m Kerri","url":"http://localhost:4000/about/","author":{"@type":"Person","name":"Kerrigan Fairbairn"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -75,13 +77,27 @@
 	.section--category-index li {
 		text-align: right;
 	}
-	
+
 	.aside {
 		opacity: 1 !important;
+		max-width: 250px;
+	}
+
+	.aside p {
+		text-align: justify;
 	}
 
 	.content {
 		width: 100%;
+	}
+
+	#headshot {
+		width: 250px;
+		transform: scaleX(-100%);
+	}
+
+	.nav--social {
+		text-align: center;
 	}
 </style>
   </head>
@@ -213,8 +229,9 @@
 
     
       <section class="section  section--description">
-        <h3>About this site</h3>
-        <p></p>
+        <img id="headshot" src="/assets/kerri.png" />
+        <h3>Hi I'm Kerri</h3>
+        <p>Welcome to my thoughts, look around, stay a while, check me out on twitter.</p>
         <nav class="nav  nav--social">
   
     
