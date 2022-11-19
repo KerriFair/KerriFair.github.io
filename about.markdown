@@ -5,4 +5,6 @@ permalink: /about/
 aside: true
 ---
 
-As you might have guessed, I'm Kerri. I'm just your average run-of-the-mill twenty something on an adventure through life. Except I'm not average at all. I'm something of a super hero, or I would be, if I didn't have to contend with so much bullshit. 
+Hi there, I'm Kerri. I'm an former web developer turned art student and lifelong gamer, welcome to my blog. Here you will find various opinions, reviews and thoughts that I've chosen to share with the world. Please make yourself at home.
+
+If you'd like to contact me for any reason, you can reach me by email <a href="mailto:kerriganfair@gmail.com">here</a> or through twitter <a href="https://twitter.com/hi_im_kerri">@hi_im_kerri</a>.
