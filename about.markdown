@@ -13,4 +13,11 @@ Returning to college at 27 to pursue an Art Foundation Course has been an exciti
 
 If you'd like to contact me for any reason, you can reach me by email <a href="mailto:kerriganfair@gmail.com">here</a> or through twitter <a href="https://twitter.com/hi_im_kerri" target="_blank">@hi_im_kerri</a>.
 
+<h6>Credits</h6>
 Profile Artwork by <a href="https://twitter.com/makowwka" target="_blank">@Makowwka</a>
+<br />
+Static site built using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+<br />
+Hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+<br />
+Jekyll Theme <a href="https://alembic.darn.es/" target="_blank">"Alembic"</a> by <a href="https://github.com/daviddarnes" target="_blank">David Darnes</a>
