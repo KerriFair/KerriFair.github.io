@@ -21,7 +21,11 @@
 title: Hi I'm Kerri
 email: kerriganfair@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Kerrigan Fairbairns video and table top game reviews! 
+logo: "/assets/kerri.png"
+favicons:
+  16: "/assets/favicon-16x16.png"
+  32: "/assets/favicon-32x32.png"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kerrigan.im" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hi_im_kerri
@@ -34,11 +38,27 @@ author:
   url: https://kerrigan.im
   email: kerriganfair@gmail.com
 
+twitter:
+  username: hi_im_kerri
+
+social: 
+  - https://twitter.com/hi_im_kerri
+
+social_links:
+  Twitter: https://twitter.com/hi_im_kerri
+  RSS: /feed.xml
+
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Tags
+  url: /tags/
 # Build settings
-remote_theme: chesterhow/tale
+remote_theme: daviddarnes/alembic@main
 permalink: /:year-:month-:day/:title
-paginate: 5
-disqus: kerrigan-im
+paginate: 2
 
 plugins:
   - jekyll-feed
