@@ -28,7 +28,7 @@ favicons:
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kerrigan.im" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hi_im_kerri
+cohost_username: hi-im-kerri
 github_username:  KerriFair
 
 google_analytics: UA-76045311-1
@@ -38,14 +38,13 @@ author:
   url: https://kerrigan.im
   email: kerriganfair@gmail.com
 
-twitter:
+cohost:
   username: hi_im_kerri
 
 social: 
-  - https://twitter.com/hi_im_kerri
+  - https://cohost.org/hi-im-kerri
 
 social_links:
-  Twitter: https://twitter.com/hi_im_kerri
   RSS: /feed.xml
 
 navigation_header:

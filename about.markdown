@@ -11,7 +11,7 @@ Outside of creative and playful endeavours I work to support my local LGBTQ+ com
 
 Returning to college at 27 to pursue an Art Foundation Course has been an exciting adventure and I can't wait to share the skills I learn along the way.
 
-If you'd like to contact me for any reason, you can reach me by email <a href="mailto:kerriganfair@gmail.com">here</a> or through twitter <a href="https://twitter.com/hi_im_kerri" target="_blank">@hi_im_kerri</a>.
+If you'd like to contact me for any reason, you can reach me by email <a href="mailto:kerriganfair@gmail.com">here</a> or through cohost <a href="https://cohost.org/hi-im-kerri" target="_blank">@hi_im_kerri</a>.
 
 <h6>Credits</h6>
 Profile Artwork by <a href="https://twitter.com/makowwka" target="_blank">@Makowwka</a>
