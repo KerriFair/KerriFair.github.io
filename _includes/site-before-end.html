@@ -1,0 +1,17 @@
+<script type="text/javascript">
+    const lightbox = document.querySelector('p:has(.photo)');
+    console.log(lightbox);
+    var scrollHeight = 0;
+    lightbox.onclick = (event) => {
+        event.preventDefault();
+        if(!lightbox.classList.contains("lightbox")) {
+            scrollHeight = document.querySelector('html').scrollTop;
+            document.querySelector('html').scrollTop = 0;
+            console.log(scrollHeight);
+        }
+        lightbox.classList.toggle("lightbox");
+        if(!lightbox.classList.contains("lightbox")) {
+            document.querySelector('html').scrollTop = scrollHeight;
+        }
+    }
+</script>

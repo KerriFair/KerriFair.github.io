@@ -102,6 +102,38 @@
 	.nav--social {
 		text-align: center;
 	}
+
+	p:has(.photo) {
+		text-align: center;
+	}
+
+	p.lightbox:has(.photo) {
+		text-align: center;
+		position: absolute;
+		display: block;
+		background: #111;
+		width: 100vw;
+		height: 100vh;
+		top: 0;
+		left: 0;
+		z-index: 2;
+		margin-bottom: 0px;
+		padding: 32px;
+	}
+
+	.photo {
+		border: 32px solid #111;
+		padding: 6px;
+		width: auto;
+		max-height: 80vh;
+	}
+
+	p.lightbox > .photo {
+		box-sizing: margin-box;
+		max-height: 100%;
+		border: 6px solid white;
+		padding: 0;
+	}
 </style>
   </head>
 
@@ -238,18 +270,20 @@
         <li class="item  item--post">
           <article class="article  article--post">
 
-            <h2><a href="/2022-11-20/Why-I-Left-Twitter-And-You-Should-Too">Why I left Twitter, and you should too.</a></h2>
+            <h2><a href="/2022-11-22/2022-11-22-The-Twig-And-Berries">The Twig and Berries</a></h2>
             
 
 <small class="small  post-meta">
   
   
     
-      <span class="label  label--category"><a href="/tags/#opinion">opinion</a></span>
+      <span class="label  label--category"><a href="/tags/#art">Art</a></span>,
     
-  &nbsp;&middot;&nbsp;<time datetime="2022-11-20T00:00:00+00:00" class="time">20 Nov 2022</time>
+      <span class="label  label--category"><a href="/tags/#photography">Photography</a></span>
+    
+  &nbsp;&middot;&nbsp;<time datetime="2022-11-22T00:00:00+00:00" class="time">22 Nov 2022</time>
 </small>
-            <p>November, 2022. The threat of the covid <a href="https://www.who.int/philippines/news/detail/11-03-2022-opinion-is-the-pandemic-ending-soon" target="_blank">pandemic</a> has been forgotten, the <a href="https://www.un.org/en/un75/climate-crisis-race-we-can-win">climate crisis</a> continues unabated, and Elon Musk succeeds in his <a href="https://edition.cnn.com/2022/10/28/tech/elon-musk-twitter-deal-close/index.html" target="_blank">acquisition</a> of Twitter, one of the largest social media platforms on the internet.</p>
+            <p><img src="/assets/photography/twig_and_berries.png" class="photo" /></p>
 
 
 
@@ -259,22 +293,20 @@
         <li class="item  item--post">
           <article class="article  article--post">
 
-            <h2><a href="/2020-12-31/When-The-Past-Was-Around">When the Past Was Around</a></h2>
+            <h2><a href="/2022-11-20/Why-I-Left-Twitter-And-You-Should-Too">Why I left Twitter, and you should too.</a></h2>
             
 
 <small class="small  post-meta">
   
   
     
-      <span class="label  label--category"><a href="/tags/#review">Review</a></span>,
+      <span class="label  label--category"><a href="/tags/#opinion">Opinion</a></span>
     
-      <span class="label  label--category"><a href="/tags/#video-game">Video Game</a></span>,
-    
-      <span class="label  label--category"><a href="/tags/#point-click">Point & Click</a></span>
-    
-  &nbsp;&middot;&nbsp;<time datetime="2020-12-31T00:00:00+00:00" class="time">31 Dec 2020</time>
+  &nbsp;&middot;&nbsp;<time datetime="2022-11-20T00:00:00+00:00" class="time">20 Nov 2022</time>
 </small>
-            <p>Let’s start with the simple things first, When the Past Was Around is a very short game, and calling it a game may well be generous, but in saying that I thoroughly enjoyed the experience it provided and I would hate to sell it short of it’s mark. This game really took me by surprise, after seeing some artwork from...
+            <p>November, 2022. The threat of the covid <a href="https://www.who.int/philippines/news/detail/11-03-2022-opinion-is-the-pandemic-ending-soon" target="_blank">pandemic</a> has been forgotten, the <a href="https://www.un.org/en/un75/climate-crisis-race-we-can-win">climate crisis</a> continues unabated, and Elon Musk succeeds in his <a href="https://edition.cnn.com/2022/10/28/tech/elon-musk-twitter-deal-close/index.html" target="_blank">acquisition</a> of Twitter, one of the largest social media platforms on the internet.</p>
+
+
 
           </article>
         </li>
@@ -410,8 +442,23 @@
 </script>
 
 
-    <!-- Overwrite this file with code you want before the closing body tag -->
-
+    <script type="text/javascript">
+    const lightbox = document.querySelector('p:has(.photo)');
+    console.log(lightbox);
+    var scrollHeight = 0;
+    lightbox.onclick = (event) => {
+        event.preventDefault();
+        if(!lightbox.classList.contains("lightbox")) {
+            scrollHeight = document.querySelector('html').scrollTop;
+            document.querySelector('html').scrollTop = 0;
+            console.log(scrollHeight);
+        }
+        lightbox.classList.toggle("lightbox");
+        if(!lightbox.classList.contains("lightbox")) {
+            document.querySelector('html').scrollTop = scrollHeight;
+        }
+    }
+</script>
   </body>
 
 </html>
