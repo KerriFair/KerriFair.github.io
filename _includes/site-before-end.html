@@ -4,11 +4,9 @@
     function toggleLightbox() {
         event.preventDefault();
         var box = event.srcElement;
-        console.log(box);
         if(!box.parentElement.classList.contains("lightbox")) {
             scrollHeight = document.querySelector('html').scrollTop;
             document.querySelector('html').scrollTop = 0;
-            console.log(scrollHeight);
         }
         box.parentElement.classList.toggle("lightbox");
         if(!box.parentElement.classList.contains("lightbox")) {
