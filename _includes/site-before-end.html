@@ -17,6 +17,7 @@
     }
     lightboxes.forEach(lightbox => {
         lightbox.addEventListener("click", toggleLightbox)
+        lightbox.setAttribute("draggable", false)
     })
     function noRightClick(event) {
         event.preventDefault();

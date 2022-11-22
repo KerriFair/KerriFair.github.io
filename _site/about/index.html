@@ -406,6 +406,7 @@ Jekyll Theme <a href="https://alembic.darn.es/" target="_blank">“Alembic”</a
     }
     lightboxes.forEach(lightbox => {
         lightbox.addEventListener("click", toggleLightbox)
+        lightbox.setAttribute("draggable", false)
     })
     function noRightClick(event) {
         event.preventDefault();
