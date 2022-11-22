@@ -2,6 +2,8 @@
 title: The Twig and Berries
 categories: [Art, Photography]
 aside: true
+year: 2022
+month: November
 ---
 <img src="/assets/photography/twig_and_berries.png" class="photo" />
 

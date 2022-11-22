@@ -20,10 +20,15 @@
   
     {% elsif page.layout == "categories" %}
     <h4 align="right">Index</h4>
-      <section class="section  section--category-index">
-        {% include nav-categories.html %}
-      </section>
-  
+    <section class="section  section--category-index">
+      {% include nav-categories.html %}
+    </section>
+
+    {% elsif page.layout == "archive" %}
+    <h4 align="right">Index</h4>
+    <section class="section section--category-index">
+      {% include nav-archive.html %}
+    </section>
     {% endif %}
   
   </aside>

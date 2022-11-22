@@ -1,0 +1,11 @@
+{% assign grouped_by_year = site.posts | group_by: 'year' %}
+
+<nav class="nav  nav--categories">
+    <ul class="list  list--categories">
+        {% for year in grouped_by_year %}
+        <li class="item  item--category">
+            <a href="#{{ year.name }}">{{ year.name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>

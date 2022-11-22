@@ -2,6 +2,8 @@
 title: Why I left Twitter, and you should too.
 categories: [Opinion] 
 aside: true
+year: 2022
+month: November
 ---
 November, 2022. The threat of the covid <a href="https://www.who.int/philippines/news/detail/11-03-2022-opinion-is-the-pandemic-ending-soon" target="_blank">pandemic</a> has been forgotten, the <a href="https://www.un.org/en/un75/climate-crisis-race-we-can-win">climate crisis</a> continues unabated, and Elon Musk succeeds in his <a href="https://edition.cnn.com/2022/10/28/tech/elon-musk-twitter-deal-close/index.html" target="_blank">acquisition</a> of Twitter, one of the largest social media platforms on the internet. 
 

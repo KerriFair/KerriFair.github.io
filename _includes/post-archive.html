@@ -1,0 +1,21 @@
+{% assign grouped_by_year = site.posts | group_by: 'year' %}
+
+{% for year in grouped_by_year %}
+  <section class="section  typeset">
+    <h4 id="{{ year.name }}">{{ year.name }}</h4>
+    {% assign grouped_by_month = year.items | group_by: 'month' %}
+    {% for month in grouped_by_month %}
+    <ul class="list  list--posts">
+        <h5>{{ month.name }}</h5>
+        {% for post in month.items %}
+            <li class="item  item--post">
+            <article class="article  article--post  typeset">
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </article>
+            </li>
+        {% endfor %}
+    {% unless forloop.last %}{% endunless %}
+    {% endfor %}
+</ul>
+  </section>
+{% endfor %}

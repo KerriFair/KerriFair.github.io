@@ -2,6 +2,8 @@
 title: Enderal First Impressions
 categories: [Review, Video Game, RPG, Adventure]
 aside: true
+year: 2019
+month: March
 ---
 
 Today I want to talk to you about a recent development in story telling and adventure from the breathtaking world of Enderal a small continent in the land of Vyn where the gods are dead and the wheel of time is due to complete one more full rotation. In order to do this, there will doubtless be some spoilers but I’ll try my best to keep them as few as possible.

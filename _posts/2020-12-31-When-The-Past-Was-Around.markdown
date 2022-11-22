@@ -2,6 +2,8 @@
 title: When the Past Was Around
 categories: [Review, Video Game, Point & Click]
 aside: true
+year: 2020
+month: December
 ---
 
 Let's start with the simple things first, When the Past Was Around is a very short game, and calling it a game may well be generous, but in saying that I thoroughly enjoyed the experience it provided and I would hate to sell it short of it's mark. This game really took me by surprise, after seeing some artwork from the game on twitter I knew immediately it was something I wanted to play and it bumped itself to the top of my list. 
