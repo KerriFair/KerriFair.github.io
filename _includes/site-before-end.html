@@ -1,19 +1,23 @@
 <script type="text/javascript">
-    const lightbox = document.querySelector('p:has(.photo)');
-    console.log(lightbox);
+    var lightboxes = document.querySelectorAll('.photo');
     var scrollHeight = 0;
-    lightbox.onclick = (event) => {
+    function toggleLightbox() {
         event.preventDefault();
-        if(!lightbox.classList.contains("lightbox")) {
+        var box = event.srcElement;
+        console.log(box);
+        if(!box.parentElement.classList.contains("lightbox")) {
             scrollHeight = document.querySelector('html').scrollTop;
             document.querySelector('html').scrollTop = 0;
             console.log(scrollHeight);
         }
-        lightbox.classList.toggle("lightbox");
-        if(!lightbox.classList.contains("lightbox")) {
+        box.parentElement.classList.toggle("lightbox");
+        if(!box.parentElement.classList.contains("lightbox")) {
             document.querySelector('html').scrollTop = scrollHeight;
         }
     }
+    lightboxes.forEach(lightbox => {
+        lightbox.addEventListener("click", toggleLightbox)
+    })
     function noRightClick(event) {
         event.preventDefault();
         return false;
