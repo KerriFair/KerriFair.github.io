@@ -15,15 +15,15 @@
 <meta property="og:title" content="About" />
 <meta name="author" content="Kerrigan Fairbairn" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Welcome to my thoughts, look around, stay a while, check me out on twitter." />
-<meta property="og:description" content="Welcome to my thoughts, look around, stay a while, check me out on twitter." />
+<meta name="description" content="Welcome to my thoughts, look around, stay a while." />
+<meta property="og:description" content="Welcome to my thoughts, look around, stay a while." />
 <link rel="canonical" href="http://localhost:4000/about/" />
 <meta property="og:url" content="http://localhost:4000/about/" />
 <meta property="og:site_name" content="Hi I’m Kerri" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="About" />
 <script type="application/ld+json">
-{"headline":"About","description":"Welcome to my thoughts, look around, stay a while, check me out on twitter.","@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/kerri.png"},"name":"Kerrigan Fairbairn"},"name":"Hi I’m Kerri","url":"http://localhost:4000/about/","author":{"@type":"Person","name":"Kerrigan Fairbairn"},"@context":"https://schema.org"}</script>
+{"headline":"About","description":"Welcome to my thoughts, look around, stay a while.","@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/kerri.png"},"name":"Kerrigan Fairbairn"},"name":"Hi I’m Kerri","url":"http://localhost:4000/about/","author":{"@type":"Person","name":"Kerrigan Fairbairn"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -324,60 +324,39 @@ Jekyll Theme <a href="https://alembic.darn.es/" target="_blank">“Alembic”</a
       </div>
   
       
-  <nav class="nav">
+<nav class="nav  nav--footer">
   <ul class="list list--nav">
     
-      
-        <li class="item  item--nav  item--current">
 
-          
-
-          
-            <a href="/about/">About</a>
-          
-        </li>
       
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
     
-      
-        <li class="item  item--nav">
 
-          
-
-          
-            <a href="/archive/">Archive</a>
-          
-        </li>
       
+
+      <li class="item  item--nav  item--current">
+        <a href="/about/">About</a>
+      </li>
     
-      
-        <li class="item  item--nav">
 
-          
-
-          
-            <a href="/">Home</a>
-          
-        </li>
       
+
+      <li class="item  item--nav">
+        <a href="/tags/">Tags</a>
+      </li>
     
-      
-        <li class="item  item--nav">
 
-          
+      
 
-          
-            <a href="/tags/">Tags</a>
-          
-        </li>
-      
-    
-      
-    
-      
+      <li class="item  item--nav">
+        <a href="/archive/">Archive</a>
+      </li>
     
   </ul>
 </nav>
-
 
 
     </div>
@@ -412,11 +391,9 @@ Jekyll Theme <a href="https://alembic.darn.es/" target="_blank">“Alembic”</a
     function toggleLightbox() {
         event.preventDefault();
         var box = event.srcElement;
-        console.log(box);
         if(!box.parentElement.classList.contains("lightbox")) {
             scrollHeight = document.querySelector('html').scrollTop;
             document.querySelector('html').scrollTop = 0;
-            console.log(scrollHeight);
         }
         box.parentElement.classList.toggle("lightbox");
         if(!box.parentElement.classList.contains("lightbox")) {

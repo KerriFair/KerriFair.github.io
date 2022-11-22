@@ -56,6 +56,17 @@ navigation_header:
   url: /tags/
 - title: Archive
   url: /archive/
+
+navigation_footer:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Tags
+  url: /tags/
+- title: Archive
+  url: /archive/
+
 # Build settings
 remote_theme: daviddarnes/alembic@main
 permalink: /:year-:month-:day/:title
