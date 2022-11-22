@@ -126,6 +126,7 @@
 		padding: 6px;
 		width: auto;
 		max-height: 80vh;
+		user-select: none;
 	}
 
 	p.lightbox > .photo {
@@ -458,6 +459,14 @@
             document.querySelector('html').scrollTop = scrollHeight;
         }
     }
+    function noRightClick(event) {
+        event.preventDefault();
+        return false;
+    }
+    var photos = document.querySelectorAll('.photo');
+    photos.forEach(photo => {
+        photo.addEventListener("contextmenu", noRightClick);
+    });
 </script>
   </body>
 
