@@ -23,6 +23,6 @@ Whilst the tool is less than 100 lines of code and only uses 4 of godot's nodes 
 
 Today I am thankful that I'm able to combine my interests and produce fun tools to improve the world I live in. You can see the end result in the video below, a run through of [Broadcasts'](https://broadcast.bandcamp.com/) "America's Boy" from their 2005 album ["Tender Buttons"](https://broadcast.bandcamp.com/album/tender-buttons) in Melody's Escape 2. Thank you so much for reading and I hope you find ways to apply creative solutions to your problems as well.  
 
-<p style="text-align:center"><iframe style="min-width:640px;min-height:360px;align-self: center;" src="https://www.youtube.com/embed/V29GMcyxA0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe src="https://www.youtube.com/embed/V29GMcyxA0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 P.S. If it wasn't clear from the content in this post, I fully recommend checking out Melody's Escape 2 for yourself with nothing but my most heartfelt endorsement.
