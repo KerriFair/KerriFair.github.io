@@ -393,7 +393,7 @@ Jekyll Theme <a href="https://alembic.darn.es/" target="_blank">“Alembic”</a
     if(lightboxes.length > 0) {
         var meta = document.createElement('meta');
         meta.setAttribute("property", "og:image");
-        meta.content = lightboxes[0].getAttribute("src");
+        meta.content = "https://kerrigan.im/" + lightboxes[0].getAttribute("src");
         document.getElementsByTagName('head')[0].appendChild(meta);
     }
 
