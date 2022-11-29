@@ -62,7 +62,8 @@
     
 
 
-    <style>
+    <meta property="og:image" content="http://localhost:4000" >
+<style>
 	a {
 		background-image: none !important;
 		text-shadow: none !important;
@@ -305,7 +306,7 @@
         <li class="item  item--post">
           <article class="article  article--post">
 
-            <h2><a href="/2022-11-22/2022-11-22-The-Twig-And-Berries">The Twig and Berries</a></h2>
+            <h2><a href="/2022-11-22/The-Twig-And-Berries">The Twig and Berries</a></h2>
             
 
 <small class="small  post-meta">
@@ -446,18 +447,9 @@
 </script>
 
 
-    
-
-<script type="text/javascript">
+    <script type="text/javascript">
     var lightboxes = document.querySelectorAll('.photo');
     var scrollHeight = 0;
-
-    if(lightboxes.length > 0) {
-        var meta = document.createElement('meta');
-        meta.setAttribute("property", "og:image");
-        meta.content = "https://kerrigan.im/" + lightboxes[0].getAttribute("src");
-        document.getElementsByTagName('head')[0].appendChild(meta);
-    }
 
     function toggleLightbox() {
         event.preventDefault();

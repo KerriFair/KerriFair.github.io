@@ -1,15 +1,6 @@
-
-
 <script type="text/javascript">
     var lightboxes = document.querySelectorAll('.photo');
     var scrollHeight = 0;
-
-    if(lightboxes.length > 0) {
-        var meta = document.createElement('meta');
-        meta.setAttribute("property", "og:image");
-        meta.content = "https://kerrigan.im/" + lightboxes[0].getAttribute("src");
-        document.getElementsByTagName('head')[0].appendChild(meta);
-    }
 
     function toggleLightbox() {
         event.preventDefault();
