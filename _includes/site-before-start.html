@@ -6,6 +6,10 @@
 		color: #e7b42b;
 	}
 
+	.no-scroll {
+		overflow: hidden;
+	}
+
 	.section--category-index li {
 		text-align: right;
 	}
@@ -39,6 +43,34 @@
 
 	p:has(.photo) {
 		text-align: center;
+	}
+
+	div.photo-grid {
+		display: flex;
+		flex: 3;
+		flex-basis: 100%;
+	}
+
+	div.photo-grid p {
+		margin-left: .25em;
+		margin-right: .25em;
+		flex: 1;
+		margin-bottom: 0em;
+		margin-top: 0em;
+		padding: 0;
+	}
+
+	div.photo-grid p:first-child {
+		margin-left: 0;
+	}
+
+	div.photo-grid p:last-child {
+		margin-right: 0;
+	}
+
+	div.photo-grid p.photo-span {
+		width: 100%;
+		flex: 2;
 	}
 
 	p.lightbox:has(.photo) {

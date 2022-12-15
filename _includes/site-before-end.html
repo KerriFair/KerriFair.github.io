@@ -8,9 +8,11 @@
         if(!box.parentElement.classList.contains("lightbox")) {
             scrollHeight = document.querySelector('html').scrollTop;
             document.querySelector('html').scrollTop = 0;
+            document.querySelector('body').classList.add("no-scroll");
         }
         box.parentElement.classList.toggle("lightbox");
         if(!box.parentElement.classList.contains("lightbox")) {
+            document.querySelector('body').classList.remove("no-scroll");
             document.querySelector('html').scrollTop = scrollHeight;
         }
     }
