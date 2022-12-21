@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # remote theme for github-pages
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
+
+gem "webrick", "~> 1.7"
