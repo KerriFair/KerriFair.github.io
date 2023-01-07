@@ -7,7 +7,7 @@ month: January
 ogimage: "/assets/photography/DSC_2905-1.jpg"
 ---
 
-<img src="/assets/photography/DSC_2905-1.jpg" class="photo" alt="Traffic Lights stand at the corners of a junction leading past a petrol station. The traffics light show a transition from red to amber to green, demonstrating anticipation" />
+<img src="/assets/photography/DSC_2905-1.jpg" class="photo" alt="Traffic Lights stand at the corners of a junction leading past a petrol station. The traffics light show a transition from red to amber to green, demonstrating anticipation" title="Traffic Lights stand at the corners of a junction leading past a petrol station. The traffics light show a transition from red to amber to green, demonstrating anticipation" />
 
 **Camera**: Nikon D610 <br />
 **Lens**: Nikkor AF 24-120 1:3.5-5.6 D <br />
@@ -24,12 +24,12 @@ As I return to regular classes starting next week I'll begin a few more guided p
 
 <div class="photo-grid">
 <p>
-<img src="/assets/photography/DSC_2925-1.jpg" class="photo" alt="Autumn trees burn with warmth in the background of this parking lot, the dawn sun glaring golden through the leaves" />
+<img src="/assets/photography/DSC_2925-1.jpg" class="photo" alt="Autumn trees burn with warmth in the background of this parking lot, the dawn sun glaring golden through the leaves" title="Autumn trees burn with warmth in the background of this parking lot, the dawn sun glaring golden through the leaves" />
 </p>
 <p>
-<img src="/assets/photography/DSC_2910-1.jpg" class="photo" alt="An icy parking lot sits empty amidst a cold winter morning, the sun reflecting off the thick cloud behind" />
+<img src="/assets/photography/DSC_2910-1.jpg" class="photo" alt="An icy parking lot sits empty amidst a cold winter morning, the sun reflecting off the thick cloud behind" title="An icy parking lot sits empty amidst a cold winter morning, the sun reflecting off the thick cloud behind"/>
 </p>
 <p>
-<img src="/assets/photography/DSC_2918-1.jpg" class="photo" alt="A billboard advertises modern technology wit a warm orange glow as an old industrial estate billows steam into the air. The depth of the traffic crossing on the left frames the scene" />
+<img src="/assets/photography/DSC_2918-1.jpg" class="photo" alt="A billboard advertises modern technology with a warm orange glow as an old industrial estate billows steam into the air. The depth of the traffic crossing on the left frames the scene" title="A billboard advertises modern technology with a warm orange glow as an old industrial estate billows steam into the air. The depth of the traffic crossing on the left frames the scene"/>
 </p>
 </div>
