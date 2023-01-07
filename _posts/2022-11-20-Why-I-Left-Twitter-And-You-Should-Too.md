@@ -1,6 +1,6 @@
 ---
 title: Why I left Twitter, and you should too.
-categories: [Opinion] 
+categories: [Thoughts] 
 aside: true
 year: 2022
 month: November
